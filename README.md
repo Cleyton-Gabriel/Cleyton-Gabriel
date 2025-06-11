@@ -36,8 +36,8 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados para
 
  <div>
    <a href="https://github.com/Cleyton-Gabriel">
-    <img aling="left" alt="Github Stats" style="padding-right: 10px" height="200" src="https://github-readme-stats.vercel.app/api?username=Cleyton-Gabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-    <img aling="right" alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Gabriel&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br"/>
+    <img aling="left" alt="Github Stats" style="padding-right: 10px" height="200" src="https://github-readme-stats.vercel.app/api?username=Cleyton-Gabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-BR"/>
+    <img aling="right" alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Gabriel&layout=compact&langs_count=6&theme=tokyonight&locale=pt-BR"/>
    </a>
 </div>
    
